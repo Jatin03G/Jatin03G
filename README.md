@@ -18,7 +18,7 @@
 
 - 💬 Ask me about...
   - Python programming
-  - Data Analyst concpets and tools
+  - Data Analyst concepts and tools
   - Git and version control
 
 ## Skills
