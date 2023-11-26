@@ -1,6 +1,6 @@
 ![Header](banner.jpg)
 <h1 align="center">Hi 👋, I'm Jatin Goel</h1>
-<h3 align="center">A passionate Data Analyst and Devops Engineer</h3>
+<h3 align="center">A passionate to become Data Analyst/Devops Engineer</h3>
 
 <img align="right" alt="coding" width="50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" style="border-radius: 10px;">
 
